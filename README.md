@@ -4,9 +4,9 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/gimd82368/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="">
+<a href="https://fireing123.tistory.com/m">
     <img 
-        src="http://img.shields.io/badge/-fireing123%20Blog-655ced?style=flat&logo=github&link="
+        src="http://img.shields.io/badge/-fireing123%20Blog-655ced?style=flat&logo=github&link=https://fireing123.tistory.com/m"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
