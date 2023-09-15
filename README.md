@@ -19,6 +19,10 @@
 <br/>
 <br/>
 <br/>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fireing123)](https://solved.ac/fireing123)
+
 <br/>
 <br/>
 <br/>
