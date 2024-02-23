@@ -37,14 +37,15 @@ js/nextjs
 
     pygame 으로 간단한 게임제작 -> fireing123/AI_DefenseGame
     pygame 이 어렵다 생각, 편의성 향상을 위한 라이브러리 -> fireing123/pygame_phyics
-    pygame_phyics 라이브러리를 사용한 게임제작 -> fireing123/pygame_phyics
-
+    pygame_phyics 라이브러리를 사용한 게임제작 -> fireing123/watermelon-game
+    pygame_phyics 라이브러리 문서 제작중... -> https://pygame-phyics-docs.vercel.app/
+    pygame_phyics 라이브러리 기본 템플릿 제작 -> fireing123/pygame-phyics-template
+    
     동아리 전용 웹사이트 제작 -> fireing123/cl-backend
     웹사이트 배포 -> https://jeonil.vercel.app
 
     디스코드 봇 ts 템플릿 제작 -> fireing123/discord-bot-ts
-    웹사이트와 연결된 디스코드 봇 제작 -> fireing123/cl-discord-bot
-
+    웹사이트와 연결된 디스코드 봇 제작 -> fireice1234/cl-discord-bot
 </div>
 
 
