@@ -1,4 +1,4 @@
-<div align="center"> 
+![image](https://github.com/user-attachments/assets/5247e981-fe8e-4e8f-9576-3e51736b6263)<div align="center"> 
     
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Fireing123&animation=fadeIn&fontColor=auto&color=auto)
 
@@ -29,23 +29,34 @@
 
 [![Fireing's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireing123&count_private=true&show_icons=true&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-깊음:
-python/pygame
-js/nextjs
 
-경험:
+<h2 style="margin-bottom: -10px;"><b>🛠 Tech Stack </b></h2>
 
-    pygame 으로 간단한 게임제작 -> fireing123/AI_DefenseGame
-    pygame 이 어렵다 생각, 편의성 향상을 위한 라이브러리 -> fireing123/pygame_phyics
-    pygame_phyics 라이브러리를 사용한 게임제작 -> fireing123/watermelon-game
-    pygame_phyics 라이브러리 문서 제작중... -> https://pygame-phyics-docs.vercel.app/
-    pygame_phyics 라이브러리 기본 템플릿 제작 -> fireing123/pygame-phyics-template
+<h3 style="margin-bottom: -10px;">💪Main</h3>
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VSCode&logoColor=white" alt="VSCode" style="height:26px;"/>&nbsp
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" alt = "Next.js" style="height:26px;"/>&nbsp
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt = "Node.js" style="height:26px;"/>&nbsp
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white" alt = "Vercel" style="height:26px;"/>&nbsp
+</p>
+
+<h3 style="margin-bottom: -10px;">🔧 I can</h3>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" alt="IntelliJ IDEA" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white" alt="Express.js" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" alt="C" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="Postman" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt = "GitHub" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" alt = "Go" 
+style="height:26px;"/>&nbsp
     
-    동아리 전용 웹사이트 제작 -> fireing123/cl-backend
-    웹사이트 배포 -> https://jeonil.vercel.app
-
-    디스코드 봇 ts 템플릿 제작 -> fireing123/discord-bot-ts
-    웹사이트와 연결된 디스코드 봇 제작 -> fireice1234/cl-discord-bot
-</div>
+</p>
 
 
