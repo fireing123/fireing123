@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/5247e981-fe8e-4e8f-9576-3e51736b6263)<div align="center"> 
-    
+
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Fireing123&animation=fadeIn&fontColor=auto&color=auto)
 
 <br/>
