@@ -26,7 +26,8 @@
 <br/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Fireing's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireing123&count_private=true&show_icons=true&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2 style="margin-bottom: -10px;"><b>🛠 Tech Stack </b></h2>
 
